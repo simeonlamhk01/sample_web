@@ -1,6 +1,6 @@
 {
   "name": "sample_web",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test",
   "main": "index.js",
   "scripts": {
